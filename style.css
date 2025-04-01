@@ -1,6 +1,11 @@
 .cabecalho{
-width:954px;
+width:924x;
 height:456px;
 background-color: darkgrey;
 
 }
+.primeira-secao{
+    width: 924px;
+    height: 456px;
+    background-color: rgb(90, 255, 255);
+    }
