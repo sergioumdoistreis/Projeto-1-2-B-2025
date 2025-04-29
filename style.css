@@ -11,7 +11,15 @@
 
 }
 
-
+.secao-com-fundo {
+    background-image: url(Frame\ 1.png); /* Ajuste o caminho conforme a estrutura de pastas */
+    /* Outras propriedades de background */
+    background-repeat: no-repeat; /* Para não repetir a imagem */
+    background-size: cover; /* Para cobrir todo o elemento */
+    background-position: center; /* Para centralizar a imagem */
+    /* Você também pode precisar definir uma altura mínima para a seção */
+    min-height: 300px;
+  }
 
 
 
